@@ -19,7 +19,8 @@
 </p>
 
 <img src="https://profile-counter.glitch.me/{MohammadNawawi}/count.svg" alt="MohammadNawawi :: Visitor's Count" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammadNawawi.MohammadNawawi)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MohammadNawawi&repo=MohammadNawawi&countColorcountColor&countColor=%237B1E7B"/>
+
 
 
 <!--
