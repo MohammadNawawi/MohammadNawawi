@@ -13,11 +13,11 @@
 ### My Statistics
 <p align="left">
 <a href="https://github.com/MohammadNawawi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadnawawi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadNawawi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadnawawi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadNawawi&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNawawi&theme=tokyonight" alt="mystreak"/>
 </a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 
 <img src="https://komarev.com/ghpvc/?username=MohammadNawawi&color=blue" alt="watching_count" />
