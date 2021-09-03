@@ -14,11 +14,11 @@
 <p align="left">
 <a href="https://github.com/MohammadNawawi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadnawawi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadnawawi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadNawawi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=blue" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=MohammadNawawi&color=blue" alt="watching_count" />
 
 <!--
 **MohammadNawawi/MohammadNawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
