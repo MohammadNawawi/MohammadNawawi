@@ -18,11 +18,7 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
-<img src="https://profile-counter.glitch.me/{MohammadNawawi}/count.svg" alt="MohammadNawawi :: Visitor's Count" />
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MohammadNawawi&repo=MohammadNawawi&countColorcountColor&countColor=%237B1E7B"/>
-
-
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=blue" alt="watching_count" />
 
 <!--
 **MohammadNawawi/MohammadNawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
