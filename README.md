@@ -19,6 +19,8 @@
 </p>
 
 <img src="https://profile-counter.glitch.me/{MohammadNawawi}/count.svg" alt="MohammadNawawi :: Visitor's Count" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammadNawawi.MohammadNawawi)
+
 
 <!--
 **MohammadNawawi/MohammadNawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
