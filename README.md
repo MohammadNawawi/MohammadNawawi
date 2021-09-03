@@ -17,6 +17,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadnawawi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<img src="https://profile-counter.glitch.me/{MohammadNawawi}/count.svg" alt="MohammadNawawi :: Visitor's Count" />
+
 <!--
 **MohammadNawawi/MohammadNawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
