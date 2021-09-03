@@ -16,11 +16,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadnawawi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadNawawi&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNawawi&theme=tokyonight" alt="mystreak"/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 </a>
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MohammadNawawi&theme=react-dark&hide_border=true&area=true)
 
