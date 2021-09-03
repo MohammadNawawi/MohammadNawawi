@@ -17,6 +17,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadNawawi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=MohammadNawawi&color=blue" alt="watching_count" />
 
