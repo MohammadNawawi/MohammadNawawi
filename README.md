@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on **PT. Sinergi Informatika Semen Indonesia as SAP Dev & Ops (Since 2020)**
-- 🌱 I’m currently learning **Cook**, **Farm**, **Bussiness** and **Programming**
+- 🌱 I’m currently learning **Cook**, **Farm**, **Business** and **Programming**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything!
