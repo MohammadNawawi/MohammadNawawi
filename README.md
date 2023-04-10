@@ -19,7 +19,7 @@
 </a>
 </p>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MohammadNawawi&theme=react-dark&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=MohammadNawawi&theme=react-dark&hide_border=true&area=true)-->
 
 <img src="https://komarev.com/ghpvc/?username=MohammadNawawi&color=blue" alt="watching_count" />
 
