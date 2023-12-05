@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **PT. Sinergi Informatika Semen Indonesia as SAP Dev & Ops (Since 2020)**
 - 🌱 I’m currently learning **Cook**, **Farm**, **Business** and **Programming**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Business, Tech Dev (Website, Mobile, IoT)
+- 🤔 I’m looking for help with ... *Sorry, I was too scared to ask for help
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Instagram](https://www.instagram.com/fromnaw/) or [Here](https://github.com/MohammadNawawi/MohammadNawawi/issues)
 - 😄 Speak/Language: Bahasa, English, Madurese, Javanese
