@@ -1,13 +1,13 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on **PT. Sinergi Informatika Semen Indonesia as SAP Dev & Ops (Since 2020)**
-- 🌱 I’m currently learning **Cook**, **Farm**, **Business** and **Programming**
+- 🌱 I’m currently learning how to **Cook**, **Farm**, **Business**, **Programming** and to be a **Teacher**
 - 👯 I’m looking to collaborate on Business, Tech Dev (Website, Mobile, IoT)
 - 🤔 I’m looking for help with ... *Sorry, I was too scared to ask for help
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Instagram](https://www.instagram.com/fromnaw/) or [Here](https://github.com/MohammadNawawi/MohammadNawawi/issues)
 - 😄 Speak/Language: Bahasa, English, Madurese, Javanese
-- ⚡ Fun fact: Love Gym/Workout, Bussiness, Technology, Sports, Traveling ...
+- ⚡ Fun fact: Love Gym/Workout, Bussiness, Technology, Sports, Book, Traveling ...
 
 
 ### My Statistics
